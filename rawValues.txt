@@ -1,17 +1,3 @@
-
-...
-/com.oasisfeng.island.MainActivity
-:BROWSER
-:CALCULATOR
-:CALENDAR
-:CAMERA
-:CLOCK
-:CONTACTS
-:EMAIL
-:GALLERY
-:LAUNCHER_ACTION_APP_DRAWER
-:PHONE
-:SMS
 a98apps.monitorfree/a98apps.monitorfree.view.MainActivity
 aasuited.net.word/aasuited.net.word.presentation.ui.activity.SplashActivity
 abacus.fireflyiii.android.app/abacus.fireflyiii.android.app.MainActivity
