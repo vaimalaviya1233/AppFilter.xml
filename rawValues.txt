@@ -1,4 +1,3 @@
-com.oasisfeng.island/com.oasisfeng.island.MainActivity
 abc.apple.emoji.theme.gif.keyboard/com.cootek.smartinput5.GateActivity
 abstractkwgt.kustom.pack/org.kustom.api.dashboard.DashboardActivity
 absworkout.bellyfatworkout.waistworkout.abdominalworkout/loseweight.weightloss.absworkout.activity.StartActivity
